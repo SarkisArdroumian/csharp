@@ -12,6 +12,10 @@ b) An approval test which will give me all the possible combinations with actual
 #Choices I have made
 1- Created an interface to define the main function to refactor.
 2- Created several Item type classes, each of them have to implement the inteface according their own logic
-3- I copy pasted the function body in each of the classes and removed the unnecesary conditions.
-4- I improved the code structure so it would be shorter and simpler.
+3- I copy pasted the function body in each of the classes and removed the unnecesary conditions
+4- I improved the code structure so it would be shorter and simpler
 5- I reran the tests to verify the changes
+
+#How to run the solution
+1- Download it as Zip, extract it then open it with visual studio IDE
+2- Compile the code then run the test cases
